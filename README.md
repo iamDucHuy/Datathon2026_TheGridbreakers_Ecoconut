@@ -1,5 +1,3 @@
-# Datathon2026_TheGridbreakers_Ecoconut
-
 
   <h1>🏆 DATATHON 2026: THE GRIDBREAKER</h1>
   <h3>📊 Nowcasting Doanh thu cho TMĐT Thời trang</h3>
