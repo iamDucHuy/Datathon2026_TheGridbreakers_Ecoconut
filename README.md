@@ -1,6 +1,5 @@
 # Datathon2026_TheGridbreakers_Ecoconut
-<div align="center">
-  <img src="https://vinuni.edu.vn/wp-content/uploads/2021/04/Logo-VinUni-1.png" width="200" alt="VinUni Logo" />
+
 
   <h1>🏆 DATATHON 2026: THE GRIDBREAKER</h1>
   <h3>📊 Nowcasting Doanh thu cho TMĐT Thời trang</h3>
